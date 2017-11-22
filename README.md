@@ -7,3 +7,4 @@ Spectrogramm component for browser
 Inspiration
 
   * https://github.com/regl-project/regl
+  * http://stack.gl/
