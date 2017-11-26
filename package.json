@@ -1,0 +1,24 @@
+{
+  "name": "spectrodrom",
+  "version": "1.0.0",
+  "description": "Spectrogram component for browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "browserify src/app.js > build/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drom/spectrodrom.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drom/spectrodrom/issues"
+  },
+  "homepage": "https://github.com/drom/spectrodrom#readme",
+  "devDependencies": {
+    "browserify": "^14.5.0",
+    "gl-spectrogram": "^1.1.8"
+  }
+}
