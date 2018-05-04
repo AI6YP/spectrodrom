@@ -16,3 +16,5 @@ Inspiration
   * https://kpreid.github.io/shinysdr/ | https://github.com/kpreid/shinysdr/blob/master/shinysdr/i/webstatic/client/widgets/spectrum.js
   * https://github.com/csete/gqrx
   * https://github.com/simonyiszk/openwebrx
+  * http://osmocom.org/projects/sdr/wiki/fosphor
+  
