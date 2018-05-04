@@ -1,6 +1,6 @@
 # spectrodrom
 
-Spectrogram component for browser
+Spectrogram (Waterfall) component for browser
 
 ## WebGL
 
@@ -14,3 +14,4 @@ Inspiration
   * https://github.com/gl-vis/gl-surface3d
   * https://github.com/googlecreativelab/chrome-music-lab/tree/master/spectrogram
   * https://kpreid.github.io/shinysdr/ | https://github.com/kpreid/shinysdr/blob/master/shinysdr/i/webstatic/client/widgets/spectrum.js
+  * https://github.com/csete/gqrx
