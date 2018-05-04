@@ -15,3 +15,4 @@ Inspiration
   * https://github.com/googlecreativelab/chrome-music-lab/tree/master/spectrogram
   * https://kpreid.github.io/shinysdr/ | https://github.com/kpreid/shinysdr/blob/master/shinysdr/i/webstatic/client/widgets/spectrum.js
   * https://github.com/csete/gqrx
+  * https://github.com/simonyiszk/openwebrx
