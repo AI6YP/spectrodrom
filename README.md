@@ -18,3 +18,5 @@ Inspiration
   * https://github.com/simonyiszk/openwebrx
   * http://osmocom.org/projects/sdr/wiki/fosphor
   
+## SDR
+  * https://github.com/watson/airplanejs
