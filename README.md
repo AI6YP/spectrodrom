@@ -19,6 +19,7 @@ Inspiration
   * http://osmocom.org/projects/sdr/wiki/fosphor
   
 ## SDR
+  * [rtl-sdr node bindings](https://github.com/watson/rtl-sdr)
   * https://github.com/watson/airplanejs
 
 ## I/Q Server
