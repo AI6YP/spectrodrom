@@ -28,4 +28,5 @@ Inspiration
   * https://hpbn.co/webrtc/
   * [node-webrtc](https://github.com/js-platform/node-webrtc) *944*
   * [medooze/media-server-node](https://github.com/medooze/media-server-node)
+  * https://github.com/shanet/WebRTC-Example
   
