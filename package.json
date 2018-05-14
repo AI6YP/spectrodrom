@@ -19,6 +19,15 @@
   "homepage": "https://github.com/drom/spectrodrom#readme",
   "devDependencies": {
     "browserify": "^14.5.0",
-    "gl-spectrogram": "^1.1.8"
+    "bubleify": "^1.0.0",
+    "gl-spectrogram": "^1.1.8",
+    "glsl-noise": "0.0.0",
+    "glsl-raytrace": "^1.0.0",
+    "glsl-sdf-normal": "^1.0.0",
+    "glsl-turntable-camera": "^1.0.0"
+  },
+  "dependencies": {
+    "colormap": "^2.3.0",
+    "rtl-sdr": "^0.1.4"
   }
 }
