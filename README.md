@@ -2,6 +2,10 @@
 
 Spectrogram (Waterfall) component for browser
 
+## Playgrounds
+
+https://beta.observablehq.com/@drom/waterfall-on-canvas
+
 ## WebGL
 
 Inspiration
